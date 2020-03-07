@@ -43,11 +43,11 @@ for match in reversedFinalMatchList:
     body = {}
     body['matchId'] = matchId
     body['message'] = 'Hey ' + personName + ' :) \n How are you doing?'
-    body['tempMessageId'] = '0.07054938870864036' #Any random number would work
-    body['userId'] = '547f53c15e87266642a9252' # ***Your tinder user-id***
+    body['tempMessageId'] = '0.07054938870864036' #qualquer número funciona
+    body['userId'] = '547f53c15e87266642a9252' # ***Seu ID do tinder***
 
     url = messageMatchEndpoint + matchId + '?locale=en-GB'
     messageApiResponse = requests.post(url = url, json = body, headers = headers)
     print('Message successfully sent ................')
 
-print('Good Game :)')
+print('Bons Matchs :)')
