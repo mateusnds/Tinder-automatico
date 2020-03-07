@@ -42,7 +42,7 @@ for match in reversedFinalMatchList:
     print('sending message to ' + personName + ' ................')
     body = {}
     body['matchId'] = matchId
-    body['message'] = 'Hey ' + personName + ' :) \n How are you doing?'
+    body['message'] = 'Hey ' + personName + ' :) \n Oi, gostei de você, tudo certo por aí?'
     body['tempMessageId'] = '0.07054938870864036' #qualquer número funciona
     body['userId'] = '547f53c15e87266642a9252' # ***Seu ID do tinder***
 
