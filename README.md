@@ -1,7 +1,7 @@
-# TinderAutomation
+# Likes infinitos no Tinder, tudo automático
 
 
-1. Auto swipe right script. Login to your Tinder account in the browser and open the console and paste the code from the `Auto-swipe-right.js` file. Press enter. That's it. Sit back relaxed and see the browser swiping right for you :) Thank me later :p
+1. Escolha o script, entre na sua conta do Tinder *no navegador* e abra o console e cole o código no arquivo `Auto-swipe-right.js`. Dê Enter. Só isso, uai. Agora é escolher com quem quer casar.
 
-2. Has it been long time since you logged in to Tinder? Do you wish to catch up with people that you have been missing out? No worries, you could just run this python script with any customised message to all your tinder matches.
+2. Você não tem tempo de ficar abrindo o Tinder e esperar ele te mostrar alguém que te deu like depois de 500 deslizadas? Resolvido, só rodar este script python. Ele já tem opção pra msg personalizada pros match.
 
